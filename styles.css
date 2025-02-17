@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+strong {
+    color: rgb(0, 0, 0); /* Default black color */
+}
